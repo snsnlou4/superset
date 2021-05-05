@@ -51,3 +51,4 @@ venv
 /docker-compose.yml
 /docker-entrypoint.sh
 /docker-init.sh
+root_key
